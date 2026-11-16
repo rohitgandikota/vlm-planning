@@ -1,0 +1,9 @@
+# Python 3.13. A GPU with 48 GB of memory runs Qwen3-VL-8B-Instruct in FP32, as in the paper.
+torch==2.8.0
+torchvision==0.23.0
+transformers==5.6.2
+accelerate==1.15.0
+numpy==2.5.3
+Pillow==12.3.0
+matplotlib==3.10.9
+jupyter
