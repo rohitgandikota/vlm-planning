@@ -1,5 +1,5 @@
 # How VLMs Plan What's Next
-### [Project Website](https://plan.baulab.info) | [Paper](https://plan.baulab.info)
+### [Project Website](https://plan.baulab.info) | [Paper](https://arxiv.org/abs/2611.21600)
 
 Official code for "How VLMs Plan What's Next". When a vision-language model answers a question about an image, it decides where to look before it looks. This repository lets you see that plan inside Qwen3-VL, patch it, and reproduce every experiment of the paper.
 
@@ -71,7 +71,7 @@ Results are saved as JSON files in `results/`. The `dataset/` folder records whi
 @article{gandikota2026plan,
   title={How VLMs Plan What's Next},
   author={Rohit Gandikota and Arnab Sen Sharma and Adam Belfki and David Bau},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2611.21600},
   year={2026}
 }
 ```
