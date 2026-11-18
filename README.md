@@ -1,5 +1,5 @@
 # How VLMs Plan What's Next
-### [Project Website](https://plan.baulab.info) | [Paper](https://arxiv.org/abs/2611.21600)
+### [Project Website](https://plan.baulab.info) | [Paper](https://arxiv.org/abs/2611.21600) | [Demo](https://plan.baulab.info/#demo)
 
 Official code for "How VLMs Plan What's Next". When a vision-language model answers a question about an image, it decides where to look before it looks. This repository lets you see that plan inside Qwen3-VL, patch it, and reproduce every experiment of the paper.
 
